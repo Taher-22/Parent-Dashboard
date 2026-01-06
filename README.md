@@ -60,5 +60,3 @@ The dashboard includes an AI-powered assistant to help parents with queries abou
 ---
 
 
-npm install
-
